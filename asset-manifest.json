@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/otp-auth/static/css/main.01d94cce.css",
+    "main.js": "/otp-auth/static/js/main.30ce2280.js",
+    "static/js/787.b6552af4.chunk.js": "/otp-auth/static/js/787.b6552af4.chunk.js",
+    "index.html": "/otp-auth/index.html",
+    "main.01d94cce.css.map": "/otp-auth/static/css/main.01d94cce.css.map",
+    "main.30ce2280.js.map": "/otp-auth/static/js/main.30ce2280.js.map",
+    "787.b6552af4.chunk.js.map": "/otp-auth/static/js/787.b6552af4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d94cce.css",
+    "static/js/main.30ce2280.js"
+  ]
+}
